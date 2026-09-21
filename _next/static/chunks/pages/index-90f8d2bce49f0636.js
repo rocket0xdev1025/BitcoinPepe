@@ -480,7 +480,7 @@
                 className:
                   "relative z-[6] max-w-[610px] mt-2 3xl:mt-4 max-lg:pb-6",
                 children: (0, a.jsx)("a", {
-                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=TBA",
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xee6de4e2995483c72eb938676d09158466f71348",
                   target: "_blank",
                   rel: "noopener noreferrer",
                   className:
