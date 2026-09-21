@@ -436,7 +436,6 @@
       }
       let N = (e) => {
           let { className: t } = e,
-            [l, i] = (0, r.useState)(!1),
             { t: n, i18n: o } = (0, w.$G)(),
             c = "zh" === o.language || "vn" === o.language;
           return (0, a.jsxs)("div", {
@@ -480,12 +479,12 @@
               (0, a.jsx)("div", {
                 className:
                   "relative z-[6] max-w-[610px] mt-2 3xl:mt-4 max-lg:pb-6",
-                children: (0, a.jsx)("button", {
+                children: (0, a.jsx)("a", {
+                  href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=TBA",
+                  target: "_blank",
+                  rel: "noopener noreferrer",
                   className:
-                    "cursor-pointer px-[0.92vw] 3xl:px-4 max-lg:px-4 h-[2.66vw] 3xl:h-[46px] max-lg:h-[44px] bg-[#F6FF00] text-black capitalize font-bold flex items-center justify-center border-[3px] border-black rounded-[0.58vw] 3xl:rounded-[10px] max-lg:rounded-[7px] text-[1vw] 3xl:text-[17px] max-lg:text-base",
-                  onClick: () => {
-                    i(!0);
-                  },
+                    "cursor-pointer px-[0.92vw] 3xl:px-4 max-lg:px-4 h-[2.66vw] 3xl:h-[46px] max-lg:h-[44px] bg-[#F6FF00] text-black capitalize font-bold flex items-center justify-center border-[3px] border-black rounded-[0.58vw] 3xl:rounded-[10px] max-lg:rounded-[7px] text-[1vw] 3xl:text-[17px] max-lg:text-base no-underline",
                   children: n("watchBitcoin"),
                 }),
               }),
@@ -503,7 +502,6 @@
                   ],
                 }),
               }),
-              (0, a.jsx)(v, { isOpen: l, setIsOpen: i }),
             ],
           });
         },
