@@ -158,13 +158,6 @@
           link: "https://es.ambcrypto.com/bitcoin-pepe-esta-preparado-para-los-listados-de-cex-la-presale-alcanza-42-millones-de-dolares/",
         },
         {
-          src: "/images/home/media/coin-gape.svg",
-          alt: "be in crypto",
-          width: 104,
-          height: 29,
-          link: "https://coingape.com/sponsored/meme-coin-mania-hits-bitcoin-investors-snap-up-BITPEPE-as-demand-soars/",
-        },
-        {
           src: "/images/home/media/coin-telegraph.svg",
           alt: "coin telegraph",
           width: 108,
@@ -1484,7 +1477,7 @@
                       ],
                     }),
                     (0, a.jsx)("a", {
-                      href: "https://dextools.io/app/en/ether/pair-explorer/0xee6de4e2995483c72eb938676d09158466f71348",
+                      href: "https://dexscreener.com/ethereum/0xEe6dE4e2995483c72Eb938676d09158466F71348",
                       target: "_blank",
                       className: "max-lg:block max-lg:w-full",
                       children: (0, a.jsx)(C.Z, {
