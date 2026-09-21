@@ -399,7 +399,7 @@
               delay: 100,
               children: (0, a.jsx)("iframe", {
                 className: "w-full h-[40vw]  max-lg:h-[60vh] rounded-xl",
-                src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad",
+                src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=TBA",
                 title: "YouTube video player",
                 allow:
                   "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
@@ -1484,7 +1484,7 @@
                       ],
                     }),
                     (0, a.jsx)("a", {
-                      href: "https://dextools.io/app/en/ether/pair-explorer/0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad",
+                      href: "https://dextools.io/app/en/ether/pair-explorer/TBA",
                       target: "_blank",
                       className: "max-lg:block max-lg:w-full",
                       children: (0, a.jsx)(C.Z, {
@@ -1765,7 +1765,7 @@
                       line: (0, a.jsx)("span", { className: "underline " }),
                     },
                     values: {
-                      address: "0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad",
+                      address: "TBA",
                     },
                   }),
                   num: "1",
@@ -1819,7 +1819,7 @@
                   className: "overflow-hidden relative",
                   onClick: () => {
                     navigator.clipboard.writeText(
-                      "0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad"
+                      "TBA"
                     ),
                       q.g.success("Address Copied to clipboard");
                   },
@@ -2356,7 +2356,7 @@
           (0, a.jsxs)(a.Fragment, {
             children: [
               (0, a.jsx)(ex, {
-                href: "https://x.com/Xbitpepe",
+                href: "https://x.com/ETHBitcoinPepe",
                 children: (0, a.jsx)(es.kL, {
                   className: "fill-[#2AE3FE] size-[50%] lg:size-[60%]",
                 }),
@@ -2691,7 +2691,7 @@
                         className:
                           "text-lg leading-none max-lg:text-xs max-lg:leading-[18px]",
                         children:
-                          "0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad",
+                          "TBA",
                       }),
                     ],
                   }),
@@ -2977,14 +2977,14 @@
                     className: "flex items-center gap-6",
                     children: [
                       (0, a.jsx)("a", {
-                        href: "https://x.com/Xbitpepe",
+                        href: "https://x.com/ETHBitcoinPepe",
                         children: (0, a.jsx)(es.kL, {
                           className:
                             "fill-white hover:fill-primary w-[24px] h-auto cursor-pointer",
                         }),
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://t.me/bitpepegroup",
+                        href: "https://t.me/ETHBitcoinPepe",
                         children: (0, a.jsx)(es.Yi, {
                           className:
                             "fill-white hover:fill-primary w-[24px] h-auto cursor-pointer",

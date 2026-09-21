@@ -1726,7 +1726,7 @@
         u = t(28423),
         s = t(32126),
         l = t(27158);
-      let d = "0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad",
+      let d = "TBA",
         p = async (f, e, t) => {
           let n = await f.getLatestBlockhash(),
             a = new l.$Z({
@@ -3469,7 +3469,7 @@
                               "Need help? Reach out via LiveChat or",
                               " ",
                               (0, n.jsx)("a", {
-                                href: "https://t.me/bitpepegroup",
+                                href: "https://t.me/ETHBitcoinPepe",
                                 target: "_blank",
                                 className: "underline text-blue-500",
                                 children: "Telegram",
@@ -3494,7 +3494,7 @@
                               "Need help? Reach out via LiveChat or",
                               " ",
                               (0, n.jsx)("a", {
-                                href: "https://t.me/bitpepegroup",
+                                href: "https://t.me/ETHBitcoinPepe",
                                 target: "_blank",
                                 className: "underline text-blue-500",
                                 children: "Telegram",
@@ -3517,7 +3517,7 @@
                               "Need help? Reach out via LiveChat or",
                               " ",
                               (0, n.jsx)("a", {
-                                href: "https://t.me/bitpepegroup",
+                                href: "https://t.me/ETHBitcoinPepe",
                                 target: "_blank",
                                 className: "underline text-blue-500",
                                 children: "Telegram",
@@ -3546,7 +3546,7 @@
                               "Need help? Reach out via LiveChat or",
                               " ",
                               (0, n.jsx)("a", {
-                                href: "https://t.me/bitpepegroup",
+                                href: "https://t.me/ETHBitcoinPepe",
                                 target: "_blank",
                                 className: "underline text-blue-500",
                                 children: "Telegram",

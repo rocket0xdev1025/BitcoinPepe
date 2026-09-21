@@ -530,7 +530,7 @@
                             "flex justify-end items-center gap-[0.92vw] 3xl:gap-4 h-[2.66vw] 3xl:h-[46px]",
                           children: [
                             (0, s.jsx)("a", {
-                              href: "https://x.com/Xbitpepe",
+                              href: "https://x.com/ETHBitcoinPepe",
                               target: "_blank",
                               className: "h-full max-lg:hidden",
                               children: (0, s.jsx)(a.Z, {
@@ -544,7 +544,7 @@
                               }),
                             }),
                             (0, s.jsx)("a", {
-                              href: "https://t.me/bitpepegroup",
+                              href: "https://t.me/ETHBitcoinPepe",
                               target: "_blank",
                               className: "h-full max-lg:hidden",
                               children: (0, s.jsx)(a.Z, {
@@ -685,7 +685,7 @@
                                 className: "!size-[48px] px-0 bg-[#E3E3E3]",
                                 onClick: () => {
                                   window.open(
-                                    "https://x.com/Xbitpepe",
+                                    "https://x.com/ETHBitcoinPepe",
                                     "_blank"
                                   );
                                 },
@@ -699,7 +699,7 @@
                                 className: "!size-[48px] px-0 bg-[#E3E3E3]",
                                 onClick: () => {
                                   window.open(
-                                    "https://t.me/bitpepegroup",
+                                    "https://t.me/ETHBitcoinPepe",
                                     "_blank"
                                   );
                                 },
@@ -1146,7 +1146,7 @@
         function r() {
           a(!1);
         }
-        let o = "0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad";
+        let o = "TBA";
         return (0, s.jsx)(j.u, {
           show: l,
           as: h.Fragment,
@@ -1696,7 +1696,7 @@
                               E(),
                                 v.g.info("CA copied!"),
                                 navigator.clipboard.writeText(
-                                  "0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad"
+                                  "TBA"
                                 );
                             },
                             children: [
@@ -1746,7 +1746,7 @@
                                       className:
                                         "text-xs font-semibold font-museo",
                                       children:
-                                        "0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad",
+                                        "TBA",
                                     }),
                                   ],
                                 }),
@@ -1845,7 +1845,7 @@
                 children: [
                   (0, s.jsxs)(B.Z, {
                     onClick: () => {
-                      window.open("https://t.me/bitpepegroup", "_blank");
+                      window.open("https://t.me/ETHBitcoinPepe", "_blank");
                     },
                     className:
                       "lg:flex-1 bg-primary h-[40px] text-lg max-lg:h-[48px]",
@@ -1859,7 +1859,7 @@
                   }),
                   (0, s.jsxs)(B.Z, {
                     onClick: () => {
-                      window.open("https://x.com/Xbitpepe", "_blank");
+                      window.open("https://x.com/ETHBitcoinPepe", "_blank");
                     },
                     className:
                       "lg:flex-1 bg-primary h-[40px] text-lg max-lg:h-[48px]",
@@ -2205,7 +2205,7 @@
             //     " bg-[#D1852A] border-[3px] border-black rounded-xl w-full max-w-[504px] lg:w-[28.9vw] 3xl:w-[504px] pr-[5px] pb-[5px] shrink-0",
             //   children: (0, s.jsxs)("iframe", {
             //     style: {width: '100%', height: '100%'},
-            //     src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xef7ca62416055b4ee9fb7e4daffb3c0802da9aad",
+            //     src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=TBA",
             //     onLoad: () => document.body.scrollTo()
             //   }),
             // }),
