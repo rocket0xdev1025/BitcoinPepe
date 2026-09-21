@@ -1146,7 +1146,7 @@
         function r() {
           a(!1);
         }
-        let o = "TBA";
+        let o = "0xee6de4e2995483c72eb938676d09158466f71348";
         return (0, s.jsx)(j.u, {
           show: l,
           as: h.Fragment,
@@ -1696,7 +1696,7 @@
                               E(),
                                 v.g.info("CA copied!"),
                                 navigator.clipboard.writeText(
-                                  "TBA"
+                                  "0xee6de4e2995483c72eb938676d09158466f71348"
                                 );
                             },
                             children: [
@@ -1746,7 +1746,7 @@
                                       className:
                                         "text-xs font-semibold font-museo",
                                       children:
-                                        "TBA",
+                                        "0xee6de4e2995483c72eb938676d09158466f71348",
                                     }),
                                   ],
                                 }),
@@ -2205,7 +2205,7 @@
             //     " bg-[#D1852A] border-[3px] border-black rounded-xl w-full max-w-[504px] lg:w-[28.9vw] 3xl:w-[504px] pr-[5px] pb-[5px] shrink-0",
             //   children: (0, s.jsxs)("iframe", {
             //     style: {width: '100%', height: '100%'},
-            //     src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=TBA",
+            //     src: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xee6de4e2995483c72eb938676d09158466f71348",
             //     onLoad: () => document.body.scrollTo()
             //   }),
             // }),
